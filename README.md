@@ -12,4 +12,5 @@
 
 ▶ 기본과제2 - clipToPadding
 
+![image](https://user-images.githubusercontent.com/52772787/80634341-4b852a80-8a95-11ea-993c-0577d2aa0be6.png)
 
