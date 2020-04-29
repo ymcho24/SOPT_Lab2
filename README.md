@@ -7,4 +7,5 @@
 
 ▶ 기본과제2 - itemDecoration
 
-![ex2](https://user-images.githubusercontent.com/52772787/80633703-293edd00-8a94-11ea-924e-e5314a27bbf7.png)
+![ex2_2](https://user-images.githubusercontent.com/52772787/80633857-6c00b500-8a94-11ea-89e2-ee4a33b0dcb8.png)
+
