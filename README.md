@@ -1,5 +1,10 @@
 # SOPT_Lab2
 
+
+※ 과제는 해당되는 branch에 각각 업로드 했습니다.
+
+
+
 ▶ 기본과제1
 
 ![12345](https://user-images.githubusercontent.com/52772787/80628999-28567d00-8a8d-11ea-9fac-d1a60eab0b9f.png)
