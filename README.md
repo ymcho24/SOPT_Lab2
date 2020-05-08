@@ -14,3 +14,7 @@
 
 ![ex3](https://user-images.githubusercontent.com/52772787/80637201-8a1ce400-8a99-11ea-91fd-66ac10c975dc.png)
 
+
+▶ 성장과제1
+
+![6_1](https://user-images.githubusercontent.com/52772787/81356795-056f3d00-910d-11ea-8691-5257a793e9da.png)
