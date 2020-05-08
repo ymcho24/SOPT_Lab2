@@ -69,4 +69,13 @@ android:clipToPadding="false"를 하면 좌우 여백은 항상 존재하지만 
 ![6_1](https://user-images.githubusercontent.com/52772787/81356795-056f3d00-910d-11ea-8691-5257a793e9da.png)
 
 
+▷ 한줄로만 아이템들이 나열되는 문제 해결 위해 추가해준 부분 : 
+
+WebtoonFragment.kt의 onViewCreated 함수 내에 
+
+rv_webtoon.layoutManager = GridLayoutManager(context, 3)
+
+문장을 추가해준다. 열개수를 지정하는 numColumns 값은 3으로 지정한다. => 3줄로 아이템들이 나열됨
+
+
 참고 : https://stackoverflow.com/questions/45927061/gridlayout-in-kotlin
