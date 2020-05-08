@@ -52,14 +52,16 @@ rv_home.apply {
 
 
 
+
+디폴트상태인 android:clipToPadding="true"를 해주면 상하좌우 여백이 스크롤 하는 중에도 항상 존재한다.
+
+
 fragment_home.xml 파일의 리사이클러뷰 안에 android:padding="12dp"로 상하좌우 padding을 주고
 
 
 android:clipToPadding="false"를 하면 좌우 여백은 항상 존재하지만 스크롤 할 시에 상하 여백은 없어진다.
 
 
-
-디폴트상태인 android:clipToPadding="true"를 해주면 상하좌우 여백이 스크롤 하는 중에도 항상 존재한다.
 
 
  
